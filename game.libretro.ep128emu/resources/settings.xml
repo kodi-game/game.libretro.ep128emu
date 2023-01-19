@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="ep128emu_wait" values="0|1|5|10" default="0"/>
+		<setting label="30002" type="select" id="ep128emu_sdhq" values="1|0" default="1"/>
+		<setting label="30003" type="select" id="ep128emu_swfb" values="0|1" default="0"/>
+		<setting label="30004" type="select" id="ep128emu_useh" values="1|0" default="1"/>
+		<setting label="30005" type="select" id="ep128emu_brds" values="0|2|4|8|10|20" default="0"/>
+		<setting label="30006" type="select" id="ep128emu_romv" values="Original|Enhanced" default="Original"/>
+		<setting label="30007" type="select" id="ep128emu_zoom" values="R3|Start|Select|X|Y|A|B|L|R|L2|R2|L3" default="R3"/>
+		<setting label="30008" type="select" id="ep128emu_info" values="L3|R3|Start|Select|X|Y|A|B|L|R|L2|R2" default="L3"/>
+		<setting label="30009" type="select" id="ep128emu_afbt" values="None|X|Y|A|B|L|R|L2|R2|L3|R3|Start|Select" default="None"/>
+		<setting label="30010" type="select" id="ep128emu_afsp" values="2|1|4|8|16" default="2"/>
+	</category>
+</settings>

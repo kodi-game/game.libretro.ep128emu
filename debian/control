@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-ep128emu
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-ep128emu (>= 1.2.5) | ep128emu (>= 1.2.5)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-ep128emu
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: Enterprise - 64/128 (ep128emu) core for kodi's retroplayer
+ Enterprise - 64/128 (ep128emu) core for kodi's retroplayer
