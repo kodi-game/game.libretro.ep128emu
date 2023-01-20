@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.ep128emu"
 		name="Enterprise - 64/128 (ep128emu)"
-		version="1.2.5.2"
+		version="1.2.5.3"
 		provider-name="Istvan Varga, Zoltan Balogh">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.ep128emu</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">ep128emu</summary>
 		<description lang="en_GB">ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers.</description>
 	</extension>

@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.ep128emu/resources/icon.png)
 
 ### Fanart
 
