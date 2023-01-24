@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.ep128emu/resources/icon.png)
+![Enterprise - 64/128 (ep128emu) icon](game.libretro.ep128emu/resources/icon.png)
 
 ### Fanart
 
