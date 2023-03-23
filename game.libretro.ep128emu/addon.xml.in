@@ -26,5 +26,6 @@
 		<description lang="de_DE">ep128emu ist ein portabler Emulator für die Computer Enterprise 64/128, ZX Spectrum 48/128 und Amstrad CPC 464/664/6128.</description>
 		<description lang="en_GB">ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers.</description>
 		<description lang="es_ES">ep128emu es un emulador portátil de los ordenadores Enterprise 64/128, ZX Spectrum 48/128 y Amstrad CPC 464/664/6128.</description>
+		<description lang="zh_CN">ep128emu 是 Enterprise 64/128、ZX Spectrum 48/128 和 Amstrad CPC 464/664/6128 计算机的便携式模拟器。</description>
 	</extension>
 </addon>
