@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "ep128emu"
+msgid "Enterprise - 64/128 (ep128emu)"
 msgstr ""
 
 msgctxt "Addon Description"
