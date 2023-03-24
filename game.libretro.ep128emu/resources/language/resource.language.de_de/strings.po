@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "ep128emu"
+msgid "Enterprise - 64/128 (ep128emu)"
 msgstr ""
 
 msgctxt "Addon Description"
