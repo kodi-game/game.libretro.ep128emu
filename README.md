@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.ep128emu.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.ep128emu)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.ep128emu?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-ep128emu)
-
 # Enterprise - 64/128 (ep128emu)
 
 ### Description
