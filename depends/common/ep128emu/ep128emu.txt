@@ -1,1 +1,1 @@
-ep128emu https://github.com/libretro/ep128emu-core/archive/9eca2e7b3703679909e769f4b5dd74d52f087e41.tar.gz
+ep128emu https://github.com/libretro/ep128emu-core/archive/cbf1e70eb2059cfacede2e42492cf05c7c6341bd.tar.gz
