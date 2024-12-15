@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers."
 msgstr "ep128emu 是 Enterprise 64/128、ZX Spectrum 48/128 和 Amstrad CPC 464/664/6128 计算机的便携式模拟器。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Main thread wait (ms)"
 msgstr "主线程等待时间（毫秒）"
@@ -68,3 +64,7 @@ msgstr "玩家1按钮自动开火"
 msgctxt "#30010"
 msgid "Player 1 Autofire repeat delay"
 msgstr "玩家1自动开火延迟"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

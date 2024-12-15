@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers."
 msgstr "ep128emu er en bærbar emulator af Enterprise 64/128, ZX Spectrum 48/128 og Amstrad CPC 464/664/6128 computere."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Main thread wait (ms)"
 msgstr "Ventetid for hovedtråd (ms)"
@@ -68,3 +64,7 @@ msgstr "Spiller 1 knap til automatisk skydning"
 msgctxt "#30010"
 msgid "Player 1 Autofire repeat delay"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
