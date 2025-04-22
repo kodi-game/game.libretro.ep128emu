@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.ep128emu\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2023-01-19 01:45i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-22 22:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-ep128emu/sv_se/>\n"
 "Language: sv_se\n"
@@ -25,7 +25,6 @@ msgctxt "Addon Description"
 msgid "ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers."
 msgstr "ep128emu är en portabel emulator för datorerna Enterprise 64/128, ZX Spectrum 48/128 och Amstrad CPC 464/664/6128."
 
-#, fuzzy
 msgctxt "#30001"
 msgid "Main thread wait (ms)"
 msgstr "Väntan på huvudtråd (ms)"
@@ -34,10 +33,9 @@ msgctxt "#30002"
 msgid "High sound quality"
 msgstr "Hög ljudkvalitet"
 
-#, fuzzy
 msgctxt "#30003"
 msgid "Use accelerated SW framebuffer"
-msgstr "Använd accelererad SW-rambuffert"
+msgstr "Använd accelererad SW-framebuffer"
 
 msgctxt "#30004"
 msgid "Enable resolution changes (requires restart)"
