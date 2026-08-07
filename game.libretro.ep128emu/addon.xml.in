@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.ep128emu"
 		name="Enterprise - 64/128 (ep128emu)"
-		version="1.2.12.28"
+		version="1.2.13.29"
 		provider-name="Istvan Varga, Zoltan Balogh">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -11,7 +11,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>img|dsk|tap|dtf|com|trn|128|bas|cas|cdt|tzx|wav|tvcwav|.</extensions>
+		<extensions>img|dsk|vhd|tap|dtf|com|trn|128|bas|cas|crt|cdt|tzx|wav|tvcwav|.</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>true</supports_disc_control>
