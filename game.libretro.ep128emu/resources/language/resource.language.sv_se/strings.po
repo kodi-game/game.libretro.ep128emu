@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.ep128emu\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2023-01-19 01:45i\n"
-"PO-Revision-Date: 2025-04-22 22:51+0000\n"
+"PO-Revision-Date: 2026-11-02 20:50+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-ep128emu/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Enterprise - 64/128 (ep128emu)"
@@ -41,195 +41,189 @@ msgctxt "#30004"
 msgid "Enable resolution changes (requires restart)"
 msgstr "Aktivera ändringar av upplösning (kräver omstart)"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Border lines to keep when zooming in"
-msgstr "Gränslinjer som ska behållas vid inzoomning"
+msgstr "Kantlinjer att behålla vid inzoomning"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "System ROM version (Enterprise only)"
-msgstr "Version av systemets ROM (endast Enterprise)"
+msgstr "System-ROM-version (endast Enterprise)"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Player 1 Zoom button"
-msgstr "Spelare 1 Zoom-knapp"
+msgstr "Knapp för zoom för spelare 1"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Player 1 Info button"
-msgstr "Info-knapp för spelare 1"
+msgstr "Informationsknapp för spelare 1"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Player 1 Autofire for button"
-msgstr "Spelare 1 Autofire för knapp"
+msgstr "Autoskott för knapp för spelare 1"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Player 1 Autofire repeat delay"
-msgstr "Fördröjning för upprepning av autotändning för spelare 1"
+msgstr "Upprepningsfördröjning för autoskott för spelare 1"
 
 msgctxt "#30011"
 msgid "Player 1 button for intelligent zoom function."
-msgstr ""
+msgstr "Knapp för spelare 1 för intelligent zoomfunktion."
 
 msgctxt "#30012"
 msgid "R3"
-msgstr ""
+msgstr "R3"
 
 msgctxt "#30013"
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgctxt "#30014"
 msgid "Select"
-msgstr ""
+msgstr "Select"
 
 msgctxt "#30015"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 msgctxt "#30016"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 msgctxt "#30017"
 msgid "A"
-msgstr ""
+msgstr "A"
 
 msgctxt "#30018"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "#30019"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 msgctxt "#30020"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 msgctxt "#30021"
 msgid "L2"
-msgstr ""
+msgstr "L2"
 
 msgctxt "#30022"
 msgid "R2"
-msgstr ""
+msgstr "R2"
 
 msgctxt "#30023"
 msgid "L3"
-msgstr ""
+msgstr "L3"
 
 msgctxt "#30024"
 msgid "Player 1 button for quick layout information."
-msgstr ""
+msgstr "Knapp för spelare 1 för snabb layoutinformation."
 
 msgctxt "#30025"
 msgid "Autofire for this button (hold button to simulate quick presses and releases)."
-msgstr ""
+msgstr "Autoskott för den här knappen (håll ned knappen för att simulera snabba tryck och släpp)."
 
 msgctxt "#30026"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "#30027"
 msgid "Autofire speed (frames)."
-msgstr ""
+msgstr "Autoskottshastighet (bildrutor)."
 
 msgctxt "#30028"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#30029"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#30030"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#30031"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#30032"
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgctxt "#30033"
 msgid "Latency"
-msgstr ""
+msgstr "Latens"
 
 msgctxt "#30034"
 msgid "Configure options related to emulation performance."
-msgstr ""
+msgstr "Konfigurera alternativ relaterade till emuleringsprestanda."
 
 msgctxt "#30035"
 msgid "Forced sleep in main emulation loop, 0 means no sleep."
-msgstr ""
+msgstr "Tvingad väntan i huvudslingan för emulering. 0 innebär ingen väntan."
 
 msgctxt "#30036"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#30037"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#30038"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "#30039"
 msgid "High quality conversion for sound output."
-msgstr ""
+msgstr "Högkvalitativ konvertering för ljudutdata."
 
 msgctxt "#30040"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "#30041"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "#30042"
 msgid "Use accelerated software framebuffer for rendering. Slightly higher performance, may crash in interlaced mode."
-msgstr ""
+msgstr "Använd accelererad bildbuffert i programvara för rendering. Något högre prestanda, men kan krascha i sammanflätat läge."
 
 msgctxt "#30043"
 msgid "Advanced"
-msgstr ""
+msgstr "Avancerat"
 
 msgctxt "#30044"
 msgid "Options affecting emulation accuracy and enhancements."
-msgstr ""
+msgstr "Alternativ som påverkar emuleringsprecision och förbättringar."
 
 msgctxt "#30045"
 msgid "Enable intelligent zoom function."
-msgstr ""
+msgstr "Aktivera intelligent zoomfunktion."
 
 msgctxt "#30046"
 msgid "Number of border rows/columns that will remain visible after zooming."
-msgstr ""
+msgstr "Antal kantrader/-kolumner som förblir synliga efter inzoomning."
 
 msgctxt "#30047"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#30048"
 msgid "Original or enhanced ROM for Enterprise. Enhanced version has faster memory test."
-msgstr ""
+msgstr "Ursprunglig eller förbättrad ROM för Enterprise. Den förbättrade versionen har snabbare minnestest."
 
 msgctxt "#30049"
 msgid "Original"
-msgstr ""
+msgstr "Ursprunglig"
 
 msgctxt "#30050"
 msgid "Enhanced"
-msgstr ""
+msgstr "Förbättrad"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
